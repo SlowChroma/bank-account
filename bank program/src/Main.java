@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
-
+//this is the Main class, which holds the main method but nothing else
 public class Main {
 	//main method, runs the code and holds almost everything for the bank accounts.
 	public static void main(String[] args) {
